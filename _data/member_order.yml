@@ -1,0 +1,35 @@
+
+# Role-based member ordering
+# Names are case-insensitive and flexible (word order doesn't matter)
+# "John M Doe" will match "Doe, John M" or "M. John Doe" etc.
+# Titles like Dr., Prof., Mr., Mrs., Ms. are automatically ignored
+
+copi:
+  - "Chioma Mary Onyelucheya"
+  - "Uzoma Henry Chijioke"
+  - "Yakubu Emmanuel"
+
+grad:
+  - "Ransom O. Uwakwem"
+  - "Temple Maduoma"
+  - "Martin Chidera Etude"
+  - "Chinenye Oguadinma"
+  - "Ihechukwu Osuji"
+  - "Chioma Ogbonna Nwanja"
+  - "Ugochukwu C. Akomah"
+  - "Chukwuebuka Mgbemere"
+  - "Obika Ifeanyi Chukwuma"
+
+undergrad:  
+  - "Abasiofon Ikono"
+  - "Esther Uzoamakah"
+  - "Ezekiel Ugochi Nwankwo"
+  
+
+alumni:
+  - "Elochukwu Okoye"
+  - "Cyril Anorondu"
+  - "Ezeokolie Ebube"
+  - "Chidera Innocent"
+  - "Malcom Okonkwo"
+  - "Chinaecherem Emmanuel Anyanwu"

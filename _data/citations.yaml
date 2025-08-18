@@ -1,0 +1,500 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1108/WJE-12-2024-0667
+  title: 'The regeneration of metal components from the cathode of spent lithium-ion
+    batteries using food wastes: a review'
+  authors:
+  - Martin C. Etude
+  - Chigoziri N. Njoku
+  - Alexander I. Ikeuba
+  - Ransom O. Uwakwem
+  - Elochukwu E. Okoye
+  - Temple U. Maduoma
+  - Augustine T. Ekechi
+  - Anselem C. Orga
+  publisher: World Journal of Engineering
+  date: '2025-08-06'
+  link: https://doi.org/g9wc8s
+  type: paper
+  description: This paper critically explored the use of common food waste in regenerating
+    the metal components from the cathodes of expended LIBs that have been pretreated.
+  image: images/papers/Graphicalabstract.jpg
+  tags:
+  - Food waste
+  - Lithium-ion batteries
+  - Direct recycling
+  - Energy
+  - Hydrometallurgy
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.scowo.2024.100027
+  title: 'Recycling lithium-ion batteries: A review of current status and future directions'
+  authors:
+  - Martin C. Etude
+  - Alexander I. Ikeuba
+  - Chigoziri N. Njoku
+  - Emmanuel Yakubu
+  - Henry C. Uzoma
+  - Chukwuebuka E. Mgbemere
+  - Daniel I. Udunwa
+  publisher: Sustainable Chemistry One World
+  date: '2024-12-01'
+  link: https://doi.org/g9wc8t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.nexres.2024.100007
+  title: A survey of the anticorrosion performances of expired analgesic drugs for
+    metal protection
+  authors:
+  - Chigoziri N. Njoku
+  - Okpo O. Ekerenam
+  - Ifeanyi C. Obika
+  - Wilfred Emori
+  - Alexander I. Ikeuba
+  - Ogbonna C. Nkuzinna
+  - Temple U. Maduoma
+  - Ifeoma J. Nnaukwu
+  - Anthony I. Obike
+  - Fidelis E. Abeng
+  publisher: Next Research
+  date: '2024-10-01'
+  link: https://doi.org/g9wc8v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1108/PRT-07-2023-0063
+  title: 'Natural and synthetic drugs as eco-friendly and sustainable corrosion inhibitors
+    for metals: a review'
+  authors:
+  - Chigoziri N. Njoku
+  - Temple Uzoma Maduoma
+  - Wilfred Emori
+  - Rita Emmanuel Odey
+  - Beshel M. Unimke
+  - Emmanuel Yakubu
+  - Cyril C. Anorondu
+  - Daniel I. Udunwa
+  - Onyinyechi C. Njoku
+  - Kechinyere B. Oyoh
+  publisher: Pigment &amp; Resin Technology
+  date: '2023-08-29'
+  link: https://doi.org/g9wc8w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.rineng.2023.101183
+  title: Review on anti-corrosion properties of expired antihypertensive drugs as
+    benign corrosion inhibitors for metallic materials in various environments
+  authors:
+  - Chigoziri N. Njoku
+  - Blessing N. Enendu
+  - Somtochukwu J. Okechukwu
+  - Ndubuisi Igboko
+  - Sylvester O. Anyikwa
+  - Alexander I. Ikeuba
+  - Ikenna B. Onyeachu
+  - Ini-Ibehe Nabuk Etim
+  - Demian I. Njoku
+  publisher: Results in Engineering
+  date: '2023-06-01'
+  link: https://doi.org/g9wc9g
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s42250-022-00550-x
+  title: 'Microbiologically Influenced Corrosion: A Concern for Oil and Gas Sector
+    in Africa'
+  authors:
+  - Ini-Ibehe N. Etim
+  - Demian I. Njoku
+  - Paul C. Uzoma
+  - Sharafadeen K. Kolawole
+  - Olajire S. Olanrele
+  - Okpo O. Ekarenem
+  - Bright O. Okonkwo
+  - Alexander I. Ikeuba
+  - Inime I. Udoh
+  - Chigoziri N. Njoku
+  - Iniobong P. Etim
+  - Wilfred Emori
+  publisher: Chemistry Africa
+  date: '2022-12-03'
+  link: https://doi.org/g9wc9h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.molliq.2021.115619
+  title: Corrosion protection of Q235 steel in acidic-chloride media using seed extracts
+    of Piper guineense
+  authors:
+  - Demian I. Njoku
+  - Chigoziri N. Njoku
+  - Hassane Lgaz
+  - Peter C. Okafor
+  - Emeka E. Oguzie
+  - Ying Li
+  publisher: Journal of Molecular Liquids
+  date: '2021-05-01'
+  link: https://doi.org/g9wc9j
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11998-020-00334-3
+  title: Epoxy-based smart coating with self-repairing polyurea-formaldehyde microcapsules
+    for anticorrosion protection of aluminum alloy AA2024
+  authors:
+  - Chigoziri N. Njoku
+  - Weichen Bai
+  - Innocent O. Arukalam
+  - Lihui Yang
+  - Baorong Hou
+  - Demian I. Njoku
+  - Ying Li
+  publisher: Journal of Coatings Technology and Research
+  date: '2020-03-24'
+  link: https://doi.org/g9wc9k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ceja.2023.100563
+  title: Recent design approaches, adhesion mechanisms, and applications of antibacterial
+    surfaces
+  authors:
+  - Paul C. Uzoma
+  - Ini-Ibehe N. Etim
+  - Bright O. Okonkwo
+  - Olajire S. Olanrele
+  - Demian I. Njoku
+  - Sharafadeen K. Kolawole
+  - Wilfred Emori
+  - Alexander I. Ikeuba
+  - Chigoziri N. Njoku
+  - Okpo O. Ekerenam
+  - Iniobong P. Etim
+  - Enobong F. Daniel
+  - Inime I. Udoh
+  publisher: Chemical Engineering Journal Advances
+  date: '2023-11-01'
+  link: https://doi.org/g9wc9m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.rechem.2023.101286
+  title: A review of the extraction and application of eco-friendly biomass for corrosion
+    protection of metals
+  authors:
+  - Chigoziri N. Njoku
+  - Alexander I. Ikeuba
+  - Cyril C. Anorondu
+  - Innocent C. Shammah
+  - Emmanuel Yakubu
+  - Blessing N. Elendu
+  - Chimuanya S. Enechukwu
+  - Idika O. Uduma
+  - Peculiar C. Uzor
+  publisher: Results in Chemistry
+  date: '2024-01-01'
+  link: https://doi.org/g9wc9n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/D4RA06070A
+  title: A review of the electrochemical and galvanic corrosion behavior of important
+    intermetallic compounds in the context of aluminum alloys
+  authors:
+  - Alexander I. Ikeuba
+  - Chigoziri N. Njoku
+  - Okpo O. Ekerenam
+  - Demian I. Njoku
+  - Inime I. Udoh
+  - Enobong F. Daniel
+  - Paul C. Uzoma
+  - Ini-Ibehe N. Etim
+  - Bright O. Okonkwo
+  publisher: RSC Advances
+  date: '2024-01-01'
+  link: https://doi.org/g9wc9p
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.porgcoat.2021.106312
+  title: Quadruple-action coatings provided by doping epoxy with inhibitor laden clay
+    nanotubes functionalized with layer-by-layer of cross-bridged chitosan and anionic
+    polyelectrolytes
+  authors:
+  - Demian I. Njoku
+  - Bowen Li
+  - M. Saleem Khan
+  - Uzoma Paul Chinonso
+  - Chigoziri N. Njoku
+  - Ikenna B. Onyeachu
+  - Ying Li
+  publisher: Progress in Organic Coatings
+  date: '2021-08-01'
+  link: https://doi.org/gjwfnh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jmst.2019.06.027
+  title: Inhibition of sulfate-reducing bacteria influenced corrosion on hydrophobic
+    poly(dimethylsiloxane) coatings
+  authors:
+  - Innocent O. Arukalam
+  - C.N. Njoku
+  - Lihui Yang
+  - Baorong Hou
+  - Ying Li
+  publisher: Journal of Materials Science &amp; Technology
+  date: '2020-09-01'
+  link: https://doi.org/g9wc9q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/maco.201709972
+  title: "Optimizing maleic anhydride microcapsules size for use in self\u2010healing\
+    \ epoxy\u2010based coatings for corrosion protection of aluminum alloy"
+  authors:
+  - Chigoziri N. Njoku
+  - Innocent O. Arukalam
+  - Weichen Bai
+  - Ying Li
+  publisher: Materials and Corrosion
+  date: '2018-02-27'
+  link: https://doi.org/gd76pg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00894-023-05517-4
+  title: Anticorrosion performance assessment of silane-modified chitosan/epoxy primer
+    coatings on mild steel in saline environment using computational simulation techniques
+  authors:
+  - Ikechukwu N. Uzochukwu
+  - Innocent O. Arukalam
+  - Chigoziri N. Njoku
+  publisher: Journal of Molecular Modeling
+  date: '2023-03-27'
+  link: https://doi.org/g9wc9s
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1108/ACMM-03-2024-2988
+  title: Response surface methodology and experimental evaluation of the inhibitory
+    properties of corn leaf extract for aluminum corrosion in acid media
+  authors:
+  - Justin C Emereole
+  - Chigoziri N Njoku
+  - Alexander I Ikeuba
+  - Ifenyinwa C Ekeke
+  - Emmanuel Yakubu
+  - Ogbonna C Nkuzinna
+  - Nnamdi A Nnodum
+  - Madueke S Nwakaudu
+  publisher: Anti-Corrosion Methods and Materials
+  date: '2024-06-06'
+  link: https://doi.org/g9wc9t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s13399-020-01122-0
+  title: Valorization of biodiesel byproduct glycerol to glycerol carbonate using
+    highly reusable apatite-like catalyst derived from waste Gastropoda Mollusca
+  authors:
+  - Rich David Ortiz Olivares
+  - Patrick U. Okoye
+  - Jean F. Ituna-Yudonago
+  - Chigoziri Nnaemeka Njoku
+  - Bassim H. Hameed
+  - Wang Song
+  - Sanxi Li
+  - Adriana Longoria
+  - P. J. Sebastian
+  publisher: Biomass Conversion and Biorefinery
+  date: '2020-11-23'
+  link: https://doi.org/g9wc9v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ghg.2242
+  title: "Handling heat\u2010stable salts in post\u2010combustion CO<sub>2</sub> capture:\
+    \ A detailed survey"
+  authors:
+  - Wilfred Emori
+  - Inime I. Udoh
+  - Okpo O. Ekerenam
+  - Alexander I. Ikeuba
+  - IniIbehe N. Etim
+  - Chigoziri N. Njoku
+  - Enobong F. Daniel
+  - Demian I. Njoku
+  - Paul C. Uzoma
+  - Sharafadeen K. Kolawole
+  - Olajire S. Olanrele
+  publisher: 'Greenhouse Gases: Science and Technology'
+  date: '2023-09-11'
+  link: https://doi.org/g9wc9w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s40899-022-00780-4
+  title: Optimization of Moringa oleifera cationic protein/zeolite adsorbent blend
+    for synthetic turbid water treatment
+  authors:
+  - Agatha E. Ahizi
+  - Chigoziri N. Njoku
+  - Okechukwu E. Onyelucheya
+  - Modestus Onyeka Anusi
+  - Ifeanyi J. Okonkwo
+  - Patrick Ugochukwu Okoye
+  - Chinenye Adaobi Igwegbe
+  publisher: Sustainable Water Resources Management
+  date: '2022-11-07'
+  link: https://doi.org/g9wc9x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-60358-7_8
+  title: 'Predictive Models of Corrosion Advances in Corrosion Modelling: A Case Study
+    of Fuzzy Modelling in Pipeline Coating'
+  authors:
+  - Ini-Ibehe Nabuk Etim
+  - Alexander Immaanyikwa Ikeuba
+  - Chigoziri Nnemeka Njoku
+  publisher: Engineering Materials
+  date: '2024-01-01'
+  link: https://doi.org/g9wc9z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.crgsc.2025.100466
+  title: Comparative analysis of the response surface methodology (RSM) and artificial
+    neural network (ANN) modelling for the removal of diclofenac potassium from synthesized
+    pharmaceutical wastewater using a palm sheath fiber nano-filtration membrane and
+    optimization
+  authors:
+  - Modestus O. Anusi
+  - Mathew C. Menkiti
+  - Alexander I. Ikeuba
+  - Chigoziri N. Njoku
+  - Chukwuma E. Iloegbunam
+  - Chinaza J. Nnamani
+  - Anselem C. Orga
+  publisher: Current Research in Green and Sustainable Chemistry
+  date: '2025-01-01'
+  link: https://doi.org/g9wc92
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1088/2053-1591/ab485b
+  title: Epoxy-based bi-layer self-repairing coating with anti-corrosive functionalities
+    for the protection of A2024 aluminum alloy
+  authors:
+  - Chigoziri N Njoku
+  - Weichen Bai
+  - Meijiang Meng
+  - Innocent O Arukalam
+  - Demian I Njoku
+  - Ying Li
+  publisher: Materials Research Express
+  date: '2019-10-04'
+  link: https://doi.org/g9wc93
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cis.2024.103209
+  title: Developments in anticorrosive organic coatings modulated by nano/microcontainers
+    with porous matrices
+  authors:
+  - Inime I. Udoh
+  - Okpo O. Ekerenam
+  - Enobong F. Daniel
+  - Alexander I. Ikeuba
+  - Demian I. Njoku
+  - Sharafadeen K. Kolawole
+  - Ini-Ibehe N. Etim
+  - Wilfred Emori
+  - Chigoziri N. Njoku
+  - Iniobong P. Etim
+  - Paul C. Uzoma
+  publisher: Advances in Colloid and Interface Science
+  date: '2024-08-01'
+  link: https://doi.org/g9wc94
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.9734/acri/2025/v25i51237
+  title: Response Surface Optimization of  the Treatment of Pharmaceutical Wastewater
+    Using Snail Shell  Powders a Natural Coagulant
+  authors:
+  - Anyikwa Sylvester O.
+  - P.C Nnaji.
+  - O.D Onukwuli.
+  - Edwin Ikezue.
+  - Chigoziri N. Njoku.
+  - Chinwendu Umeojiakor T.
+  - Onwuchewa Chidiebere
+  publisher: Archives of Current Research International
+  date: '2025-05-20'
+  link: https://doi.org/g9wdb2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/17597269.2024.2315372
+  title: 'Optimizing enzymatic hydrolysis of cassava peels for enhanced glucose production:
+    effects of process parameters and cellulase prehydrolysis'
+  authors:
+  - Okechukwu Elechi Onyelucheya
+  - Onyinyechi Ecstacy Okoligwe
+  - Chigoziri N. Njoku
+  - Chioma Mary Onyelucheya
+  - Modestus O. Anusi
+  - Chinenye Adaobi Igwegbe
+  publisher: Biofuels
+  date: '2024-02-10'
+  link: https://doi.org/g9wc95
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.rineng.2025.105257
+  title: Advancements in corrosion studies and protective measures for copper and
+    copper-based alloys in varied environmental conditions
+  authors:
+  - Okpo O. Ekerenam
+  - Alexander I. Ikeuba
+  - Chigoziri N. Njoku
+  - Demian I. Njoku
+  - Wilfred Emori
+  - Izuchukwu K. Nwokolo
+  - Ini-Ibehe N. Etim
+  - Bright O. Okonkwo
+  - Inime I. Udoh
+  - Enobong F. Daniel
+  - Paul C. Uzoma
+  - Bukola O. Awonusi
+  - Sharafadeen K. Kolawole
+  - Iniobong P. Etim
+  - Olajire S. Olanrele
+  publisher: Results in Engineering
+  date: '2025-06-01'
+  link: https://doi.org/g9wc96
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11998-024-00942-3
+  title: 'Mesoporous silica-based smart nanocontainers for corrosion inhibition: a
+    mini-review'
+  authors:
+  - Patience Usman
+  - Ijeoma A. Duru
+  - Christogonus O. Akalezi
+  - Chigoziri Njoku
+  - Abdulsalami Kovo
+  - Emeka E. Oguzie
+  publisher: Journal of Coatings Technology and Research
+  date: '2024-06-24'
+  link: https://doi.org/g9wc97
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.21203/rs.3.rs-2182637/v1
+  title: Investigating the effect of silane modification of chitosan on the anticorrosion
+    performance of epoxy primer coating using computational simulation technique
+  authors:
+  - Ikechukwu N. Uzochukwu
+  - Innocent O. Arukalam
+  - Chigoziri N. Njoku
+  publisher: Research Square Platform LLC
+  date: '2022-11-05'
+  link: https://doi.org/g9wc98
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00343-024-4129-2
+  title: 'Navigating the blue economy: a comprehensive review of marine pollution
+    and sustainable approaches'
+  authors:
+  - Ini-Ibehe N. Etim
+  - Okpo O. Ekerenam
+  - Alexander I. Ikeuba
+  - Chigoziri N. Njoku
+  - Wilfred Emori
+  - Ruiyong Zhang
+  - Jizhou Duan
+  publisher: Journal of Oceanology and Limnology
+  date: '2025-01-02'
+  link: https://doi.org/g9wc99
+  plugin: sources.py
+  file: sources.yaml

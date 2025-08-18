@@ -1,0 +1,207 @@
+{% assign news_data = site.data.news %}
+{% assign limit = include.limit | default: 999 %}
+{% assign style = include.style | default: "calendar" %}
+{% assign expanded = include.expanded | default: false %}
+{% assign prefix = include.prefix | default: "" %}
+{% assign hide_hidden = include.hide_hidden | default: false %}
+
+<style>
+.news-{{ style }}-list {
+  max-width: 100%;
+}
+
+.news-item {
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  background-color: white;
+  padding: 1.5rem;
+  border-left: 1px solid #28a745;
+}
+
+.news-item-header {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.news-image {
+  flex-shrink: 0;
+  width: 150px;
+  height: 100px;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.news-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.news-image img:hover {
+  transform: scale(1.05);
+}
+
+.news-content-wrapper {
+  flex: 1;
+  min-width: 0;
+}
+
+
+
+
+
+.news-content {
+  line-height: 1.6;
+  color: #444;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 16px;
+}
+
+/* Image modal/lightbox */
+.image-modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.9);
+  cursor: pointer;
+}
+
+.image-modal-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 90vw;
+  max-height: 90vh;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+}
+
+.image-modal-close {
+  position: absolute;
+  top: 20px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  z-index: 10000;
+}
+
+.image-modal-close:hover {
+  color: #28a745;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .news-item-header {
+    flex-direction: column;
+  }
+  
+  .news-image {
+    width: 100%;
+    height: 200px;
+  }
+}
+</style>
+
+<div class="news-{{ style }}-list">
+  {% assign shown_count = 0 %}
+  {% for news in news_data %}
+    {% if hide_hidden == true and news.hide_from_front == true %}
+      {% continue %}
+    {% endif %}
+    
+    {% assign shown_count = shown_count | plus: 1 %}
+    {% if shown_count <= limit %}
+      
+      {% comment %} Check if image exists {% endcomment %}
+      {% assign has_image = false %}
+      {% assign image_path = "" %}
+      {% if news.image %}
+        {% assign image_path = "images/news/" | append: news.image %}
+        {% assign has_image = true %}
+      {% endif %}
+      
+      <div class="news-item">
+        <div class="news-item-header">
+          {% if has_image %}
+          <div class="news-image">
+            <img src="{{ image_path | relative_url }}" alt="{{ news.title }}" loading="lazy" onclick="openImageModal('{{ image_path | relative_url }}', '{{ news.title }}')">
+          </div>
+          {% endif %}
+          
+          <div class="news-content-wrapper">
+            {% if style == "calendar" %}
+              {% include news-calendar-item.html title=news.title date=news.date content=news.content expanded=expanded %}
+            {% else %}
+              {% capture news_id %}{{ prefix }}{{ forloop.index }}{% endcapture %}
+              {% include news-simple-item.html title=news.title date=news.date content=news.content id=news_id %}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+      
+    {% endif %}
+  {% endfor %}
+</div>
+
+<!-- Image Modal -->
+<div id="imageModal" class="image-modal" onclick="closeImageModal()">
+  <span class="image-modal-close" onclick="closeImageModal()">&times;</span>
+  <img class="image-modal-content" id="modalImage">
+</div>
+
+{% if style == "simple" %}
+<script>
+function toggleNewsContent(id) {
+  var content = document.getElementById('news-content-' + id);
+  var link = document.getElementById('news-more-' + id);
+  if (content.style.display === 'none') {
+    content.style.display = 'block';
+    link.innerHTML = '(less)';
+  } else {
+    content.style.display = 'none';
+    link.innerHTML = '(more)';
+  }
+}
+</script>
+{% endif %}
+
+<script>
+function openImageModal(imageSrc, altText) {
+  var modal = document.getElementById('imageModal');
+  var modalImg = document.getElementById('modalImage');
+  modal.style.display = 'block';
+  modalImg.src = imageSrc;
+  modalImg.alt = altText;
+  
+  // Prevent body scrolling when modal is open
+  document.body.style.overflow = 'hidden';
+}
+
+function closeImageModal() {
+  var modal = document.getElementById('imageModal');
+  modal.style.display = 'none';
+  
+  // Restore body scrolling
+  document.body.style.overflow = 'auto';
+}
+
+// Close modal with Escape key
+document.addEventListener('keydown', function(event) {
+  if (event.key === 'Escape') {
+    closeImageModal();
+  }
+});
+</script>

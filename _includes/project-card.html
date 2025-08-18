@@ -1,0 +1,40 @@
+{% capture project_markup %}
+<div id="project-{{ forloop.index }}" class="project-card">
+  <h2 class="project-title">{{ include.project.title }}</h2>
+  
+  <div class="project-content">
+    <div class="project-text">
+      <div class="project-tags">
+        {% for tag in include.project.tags %}
+          <span class="project-tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+      
+      <p class="project-description">{{ include.project.description }}</p>
+
+      {% if include.project.collaborators %}
+      <p class="project-collaborators">
+        <em>Collaborators: {{ include.project.collaborators }}</em>
+      </p>
+      {% endif %}
+
+    </div>
+    
+    <div class="project-image-container">
+      <img src="{{ include.project.image | relative_url }}" alt="{{ include.project.title }}" class="project-image">
+    </div>
+  </div>
+  
+  {% if include.project.collaborator_icons %}
+    <div class="collaborator-icons">
+      {% for icon in include.project.collaborator_icons %}
+        <img src="{{ icon.image | relative_url }}" alt="{{ icon.name }}" title="{{ icon.name }}" class="collaborator-icon">
+      {% endfor %}
+    </div>
+  {% endif %}
+  
+  <hr class="project-divider">
+</div>
+{% endcapture %}
+
+{{ project_markup }}

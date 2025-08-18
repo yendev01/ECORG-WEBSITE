@@ -1,0 +1,32 @@
+- title:
+  image: composite.png
+  description: Composite phase change materials (CPCMs) using electrospinning, extrusion, and solution mixing for thermal energy storage applications.
+
+- title:
+  image: nanosynthesis.png
+  description: Illustration of the synthesis of nanoparticles using a dendrimer (A) and a linear polymer (B).
+
+- title: 
+  image: PCM.png
+  description: Phase change materials (PCMs) for the thermal management of lithium-ion batteries.
+
+- title:
+  image: grapheneanode.png
+  description: Illustration of structural configurations for graphene-based anode materials in lithium-ion batteries.
+
+- title:
+  image: metamaterials.png
+  description: The design, optimization, and actuation of magneto-active metamaterials.
+
+- title:
+  image: compositePCM.png
+  description: The synthesis and properties of composite phase change materials (PCMs), hydrogels, aerogels, and films, with applications in energy storage, and thermal regulation.
+
+- title:
+  image: Materialstructuredesign.png
+  description: The use of a genetic algorithm to optimize the design of a cellular material structure to achieve specific mechanical properties.
+
+- title:
+  image: ECO.jpg
+  description: Pictorial representation of the applications of our core research interests.
+
