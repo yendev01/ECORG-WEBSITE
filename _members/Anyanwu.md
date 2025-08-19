@@ -4,7 +4,7 @@ image: images/team/Anyanwu.jpg
 role: alumni
 brief-position: PhD in Chemical Engineering, University of Michigan, Ann Arbor.
 links:
-  linkedin: chichinaecheremanyanwuna
+  linkedin: chinaecheremanyanwuna
   email: chinecheremanyanwu999@gmail.com
 ---
 
