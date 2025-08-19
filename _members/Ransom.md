@@ -8,7 +8,6 @@ education:
   B.Eng in Chemical Engineering (2021)"
 brief-position: Nanomaterials, Interfacial Engineering, Nanocrystals, 2-D Materials, Composites, and Computations
 brief-desc: Graduate Researcher
-#external-page-only: https://www.linkedin.com/in/ransom-uwakwem-2a3752225
 
 links:
   email: ransomuwakwem@gmail.com
