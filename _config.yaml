@@ -10,7 +10,7 @@ proofer: false
 header-dark: false
 
 
-#url:  https://transport-systems.imperial.ac.uk
+url:  https://www.ecorg-futo.org
 baseurl: ''
 # Sitemap settings
 sitemap:
@@ -22,7 +22,8 @@ sitemap:
 
 # site social media and other links
 links:
-  email: ecorg@edu.ng
+  linkedin_company: ecoresearchgroup
+  email: chigoziri.njoku@futo.edu.ng
   # orcid: 0000-0001-8713-9213
   google-scholar: mx3RgiIAAAAJ
   # twitter: YourLabHandle
