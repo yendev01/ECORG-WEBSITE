@@ -11,7 +11,7 @@ brief-desc: Principal Investigator and Lecturer
 links:
   email: chigoziri.njoku@futo.edu.ng
   google-scholar: mx3RgiIAAAAJ
-  linkedin: njoku-chigoziri-ph-d-r-engr
+  linkedin: njoku-chigoziri-ph-d-r-engr-25746983
   orcid: 0000-0002-8999-3912
 
 
