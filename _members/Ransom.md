@@ -21,4 +21,4 @@ At ECO, he has worked on projects involving nanomaterials for sodium-ion and lit
 
 His academic interests lie in nanomaterials, nanocrystals, graphene, and composites, with particular focus on how surface chemistry, interfaces, and structural design govern performance. He is especially interested in colloidal nanocrystals for their synthetic versatility and potential in scalable applications.
 
-Ransom is motivated, curious, and has great leadership qualities. When he is not working on projects, he is out there learning and teaching languages.
+Ransom has demonstrated initiative and leadership in collaborative projects, often coordinating with peers to drive progress and communicate results effectively. Outside the laboratory, he actively pursues his interest in languages, both learning and teaching, reflecting his curiosity and commitment to knowledge exchange.
