@@ -31,6 +31,12 @@ P.O. BOX 1526, Owerri, Imo State, Nigeria.
   link="https://maps.app.goo.gl/7nTfbputVCU8RpDf6?g_st=iw"
 %}
 
+{%
+  include button.html
+  type="linkedin_company"
+  tooltip="LinkedIn"
+  link="ecoresearchgroup"
+%}
 
 {% include section.html %}
 
