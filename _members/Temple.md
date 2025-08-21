@@ -6,7 +6,7 @@ role: grad
 education: 
   - "Federal University of Technology Owerri: B.Eng in Chemical Engineering (2021)"
 
-brief-position: Biomaterials, Cellular and tissue engineering, Regenerative medicine, Immunology
+brief-position: Biomaterials, Computational Modeling, Sustainable fuel production, Corrosion & Pollution control
 
 brief-desc: Graduate Researcher
 links:

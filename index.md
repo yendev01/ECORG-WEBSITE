@@ -18,7 +18,7 @@ The group is headed by [**Dr. Chigoziri Njoku**](/members/ChigoziriN), and is af
 
 {% capture text_team %}
 
-This is an interdisciplinary team that brings together specialists in chemical engineering, chemistry, biotechnology, materials science and engineering, and environmental technology. By combining strengths across these fields, the team is able to tackle complex local challenges from multiple angles.
+The ECO group brings together a diverse team of students, researchers, and volunteers who are united by the conviction that modern chemical challenges demand integrated solutions. We have over 20 members, from senior undergraduates and Master’s candidates and lab technicians to PhD scholars and postgraduates, with backgrounds in chemical engineering, biomedical engineering, chemistry, materials science, environmental science, and data science. Our alumni are already breaking new ground in their careers, with some pursuing their PhD in the Chemical Engineering Department at FSU, while others have been awarded prestigious opportunities like the Erasmus Mundus Scholarship to pursue a Master's in Sustainable Biomass and Bioproducts Engineering.
 
 **Join us:** We welcome applications from talented researchers. 
 
