@@ -7,7 +7,7 @@ education:
   - "Chukwuemeka Odimegwu Ojukwu University: PhD in Corrosion Science and Inhibition (2024)"
   - "Chukwuemeka Odimegwu Ojukwu University: M.Eng in Chemical Engineering (2015)"
   - "Chukwuemeka Odimegwu Ojukwu University: B.Eng in Chemical Engineering (2007)"
-brief-position:  Corrosion science and inhibition, Machine learning applications in corrosion prediction,Sustainability, and Biodiesel
+brief-position:  Corrosion science and inhibition, Machine learning applications in corrosion prediction, Sustainability, and Biodiesel
 brief-desc: Lecturer and Investigator
 links:
   email: ndidiamaka.amadi@futo.edu.ng
