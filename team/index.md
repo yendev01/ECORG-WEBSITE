@@ -49,7 +49,7 @@ redirect_from:
 <a style="text-decoration: none; color: inherit;" href="/members/ChigoziriN.html">
 Dr. Chigoziri Njoku leads ECORG and is part of the Africa Centre of Excellence in Future Energies and Electrochemical Systems (ACEFUELS), Federal University of Technology Owerri.
 
-His research addresses challenges at the intersection of Materials, Corrosion, Composites and Energy Sytems.
+His research addresses challenges at the intersection of Materials, Corrosion, Composites and Energy Systems.
  &nbsp;&nbsp;&nbsp;
  <a href="/members/ChigoziriN.html">(more)</a>
 
