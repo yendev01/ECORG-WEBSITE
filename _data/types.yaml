@@ -35,6 +35,10 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+collab:
+  icon: fa-solid fa-microscope
+  description: Collaborator
+
 # general
 
 link:

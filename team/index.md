@@ -72,6 +72,14 @@ His research addresses challenges at the intersection of Materials, Corrosion, C
 
 {% include section.html %}
 
+# {% include icon.html icon="fa-solid fa-handshake" style="color: green;" %}Collaborators
+
+
+{% include list.html data="members" component="portrait" filters="role: collab" %}
+
+
+{% include section.html %}
+
 # Others
 
 {% capture content %}
