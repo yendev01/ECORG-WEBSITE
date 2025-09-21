@@ -1,5 +1,5 @@
 ---
-name: Ebube Ezeokolie
+name: Ebube Daniel Ezeokolie
 image: images/team/EbubeEzeokolie.jpeg
 role: alumni
 brief-position: Erasmus Mundus Joint Master's Program.
